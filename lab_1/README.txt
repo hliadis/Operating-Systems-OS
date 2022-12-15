@@ -1,2 +1,2 @@
 
-sysfs module & syscall creation
+# sysfs module & syscall creation inside linux kernel
