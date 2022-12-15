@@ -1,0 +1,1 @@
+cmd_/home/user/project1_module/project1-kyber.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/user/project1_module/project1-kyber.ko /home/user/project1_module/project1-kyber.o /home/user/project1_module/project1-kyber.mod.o;  true
